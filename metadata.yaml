@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6156
     wikipedia: http://en.wikipedia.org/wiki/Henry_Cuyler_Bunner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30662#The-Story-of-a-New-York-House
 gutenberg_issued: '2009-12-13'
 gutenberg_type: Text
 identifiers:
